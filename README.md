@@ -109,5 +109,3 @@ pm generate --no-symbols
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/password-manager/issues).
 
-## 📝 License
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
